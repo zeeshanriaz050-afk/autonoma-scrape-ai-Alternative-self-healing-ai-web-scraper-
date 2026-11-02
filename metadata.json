@@ -1,0 +1,6 @@
+{
+  "name": "AutonomaScrape AI - Self-Healing Web Scraper & Extraction Engine",
+  "description": "Autonomous AI web scraper & structure-extraction pipeline with natural language prompts, DOM layout parsing, self-healing selector synthesis, and instant database/webhook sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
